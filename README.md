@@ -8,7 +8,7 @@
 - 🎓 M.Sc. in Information Engineering from Universidad de Los Andes & B.Sc. in Economics.
 - 📚 Continuously learning: active in the DataTalks.Club LLM Zoomcamp community.
 - ⚡ Outside of work: collecting independent vinyl records and Casio watches.
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/juan-d-sepulveda) | [Email](mailto:juandsep@gmail.com)
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/juan-d-sepulveda) 
 
 ### 🧠 Core Expertise
 - **AI/ML:** Causal Inference, Uplift Modeling, Generative AI, RAG, AI Agents, Computer Vision.
