@@ -1,26 +1,14 @@
-# Hi, I'm Juan D Sepulveda 👋
+# Hi, I'm Juan
 
-**AI Explorer & Lifelong Learner** — always tinkering, always learning. Bridging the gap between advanced causal inference, LLM architectures, and scalable operational systems.
+Data scientist and engineer focused on causal inference, LLMs, and scalable systems. I spend most of my time thinking about how to make AI useful for real business problems.
 
-### 👨‍💻 About Me
-- 🏢 Currently working as a **Lead Data Scientist** at Procter & Gamble, developing AI decision layers over causal econometric models.
-- 🛠️ Previously built LLM-powered document intelligence and agentic workflows at Mercado Libre.
-- 🎓 M.Sc. in Information Engineering from Universidad de Los Andes & B.Sc. in Economics.
-- 📚 Continuously learning: active in the DataTalks.Club LLM Zoomcamp community.
-- ⚡ Outside of work: collecting independent vinyl records and Casio watches.
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/juan-d-sepulveda) 
+### About me
+- Lead Data Scientist at Procter & Gamble, building AI layers on top of econometric models.
+- Previously at Mercado Libre working on document intelligence and agentic workflows.
+- M.Sc. in Information Engineering, B.Sc. in Economics.
+- When not coding: collecting vinyl records and vintage Casio watches.
 
-### 🧠 Core Expertise
-- **AI/ML:** Causal Inference, Uplift Modeling, Generative AI, RAG, AI Agents, Computer Vision.
-- **Engineering:** MLOps, FastAPI, Docker, Kubernetes, A/B Testing Deployment.
-- **Cloud:** GCP, AWS, Azure.
-
-### 💼 Featured Work
-- **Promo Intelligence & Merchandiser Optimization:** Built LLM layers over econometric models at P&G to decompose promotional uplift, reducing operational costs by ~$1.2M annually.
-- **Legal AI Copilot:** Designed an agent-based workflow at Mercado Libre that reduced manual processing effort by >60%.
-- **Commercial Uplift Pipelines:** Deployed causal models at AB InBev, saving ~20% in promotional spend while increasing Net Contribution Margin by 12%.
-
-### 🛠️ Tech Stack
+### What I work with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -31,5 +19,5 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 📊 GitHub Stats
+### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juandsep&show_icons=true&theme=transparent)
