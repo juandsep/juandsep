@@ -1,4 +1,4 @@
-# Hi, I'm Juan
+# Hi, I'm Juan D Sep
 
 SR data scientist and IA engineer focused on awesome solutions, LLMs, and scalable systems. I like building tools that connect research with real-world products.
 
