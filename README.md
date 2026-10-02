@@ -1,12 +1,12 @@
 # Hi, I'm Juan
 
-Data scientist and engineer focused on causal inference, LLMs, and scalable systems. I spend most of my time thinking about how to make AI useful for real business problems.
+Data scientist and engineer focused on causal inference, LLMs, and scalable systems. I like building tools that connect research with real-world products.
 
 ### About me
-- Lead Data Scientist at Procter & Gamble, building AI layers on top of econometric models.
-- Previously at Mercado Libre working on document intelligence and agentic workflows.
-- M.Sc. in Information Engineering, B.Sc. in Economics.
-- When not coding: collecting vinyl records and vintage Casio watches.
+- Lead Data Scientist at Procter & Gamble, working on AI layers built on top of econometric models.
+- Previously at Mercado Libre, where I built document intelligence and agentic workflows.
+- M.Sc. in Information Engineering and B.Sc. in Economics.
+- Outside work, I collect vinyl records and vintage Casio watches.
 
 ### What I work with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
