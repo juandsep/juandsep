@@ -1,6 +1,6 @@
 # Hi, I'm Juan D Sep
 
-SR data scientist and IA engineer focused on awesome solutions, LLMs, and scalable systems. I like building tools that connect research with real-world products.
+Sr data scientist and IA engineer focused on awesome solutions, LLMs, and scalable systems. I like building tools that connect research with real-world products.
 
 ### About me
 - Lead Data Scientist at Procter & Gamble, working on AI layers built on top of machine learning models.
